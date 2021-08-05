@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Hoje trabalho tanto com front-end quanto com back-end
+- 💪 Hoje trabalho tanto com front-end quanto com back-end
 - 📚 Estudando Javascript
 - 📫 Contate-me no email: lucasptatsch@gmail.com
 - 🔗 Perfil no Linkedin: https://bityli.com/qA1eh
