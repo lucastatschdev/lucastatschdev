@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 💪 Trabalhando com front-end no meu atual estágio
-- 📚 Estudando Javascript e React
+- 💪 Estudando Javascript e React
+- 📚 2º Semestre em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: lucasptatsch@gmail.com
 - 🔗 Perfil no Linkedin: https://bityli.com/qA1eh
 - 💻 HTML | CSS | Javascript | React
