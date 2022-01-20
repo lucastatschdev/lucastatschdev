@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 💪 Trabalhando com front-end no meu atual estágio | Tive uma breve experiência com o back
-- 📚 Estudando Javascript e Vue
+- 💪 Trabalhando com front-end no meu atual estágio
+- 📚 Estudando Javascript e React
 - 📫 Contate-me no email: lucasptatsch@gmail.com
 - 🔗 Perfil no Linkedin: https://bityli.com/qA1eh
-- 💻 HTML | CSS | Javascript | VUE | SQL
+- 💻 HTML | CSS | Javascript | React
 <img src="https://komarev.com/ghpvc/?username=lucastatschdev&color=green" alt="lucastatschdev" />
 
 <div>
