@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 💪 Estudando Javascript e React
+- 👨🏻‍💻 Desenvolvedor Júnior - VTEX
+- 💪 Estudando CSS, Javascript e React
 - 📚 2º Semestre em Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me no email: lucasptatsch@gmail.com
 - 🔗 Perfil no Linkedin: https://bityli.com/qA1eh
-- 💻 HTML | CSS | Javascript | React
 <img src="https://komarev.com/ghpvc/?username=lucastatschdev&color=green" alt="lucastatschdev" />
 
 <div>
